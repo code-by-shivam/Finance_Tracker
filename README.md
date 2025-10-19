@@ -81,6 +81,3 @@ You can follow these steps to run the project on your local system:
 3.  Go to the 'View Transactions' page to see all your records, filter them, or edit/delete them.
 4.  Access the admin panel at `http://127.0.0.1:8000/admin/`.
 
-## 📄 License
-
-This project is licensed under the MIT License.
